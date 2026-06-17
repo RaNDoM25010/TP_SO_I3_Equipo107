@@ -1,0 +1,22 @@
+Joaquin Corazza
+Genaro Espinola
+German Ewens Lairet
+
+Respuestas:
+a) El master queda con el README, datos.txt con las tres entradas
+(nombre, IP y hora de GAMMA, ALFA y BETA), los archivos CPUGamma.txt,
+CPUAlfa.txt y CPUBeta.txt, y luego, tras el merge del punto 9, también
+queda incorporado beta.txt con los aportes de BETA, GAMMA y ALFA
+(nombre, salida de ifconfig y hora de cada uno).
+
+b) Sí. Al hacer "git fetch" y "git pull" sobre la rama de GAMMA antes de
+trabajar y antes de mergear
+
+c) git checkout master
+git pull origin master
+git merge <rama-apellido-gamma>
+   (si hay conflicto en datos.txt: editar el archivo, dejar las tres
+   entradas, borrar las marcas <<<<<<< ======= >>>>>>>)
+git add datos.txt
+git commit
+git push origin master
