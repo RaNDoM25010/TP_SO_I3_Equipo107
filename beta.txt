@@ -67,3 +67,41 @@ Adaptador de túnel Teredo Tunneling Pseudo-Interface:
    Dirección IPv6 . . . . . . . . . . : 2001:0:14c9:cd04:886:ea59:45f2:8ddf
    Vínculo: dirección IPv6 local. . . : fe80::886:ea59:45f2:8ddf%13
    Puerta de enlace predeterminada . . . . . :
+
+Espinola Genaro
+13:26 PM 
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::8502:49cc:6348:b2f3%11
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4e6:24a:a4bb:53d4:dd4b:c089
+   Dirección IPv6 . . . . . . . . . . : 2800:810:4e6:24a:be77:cdd:2d82:b5f2
+   Dirección IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:dd11:4602:3f25:ac6f
+   Dirección IPv6 temporal. . . . . . : 2800:810:4e6:24a:4d22:2473:d183:b912
+   Dirección IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:4d22:2473:d183:b912
+   Vínculo: dirección IPv6 local. . . : fe80::8d50:5ec3:80c0:8dab%12
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.11
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::bad9:4dff:fe5e:7ebc%12
+                                       192.168.0.1
+
