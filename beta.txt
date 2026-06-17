@@ -36,3 +36,34 @@ Adaptador de LAN inalámbrica Wi-Fi:
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::125f:49ff:fecd:5fe7%21
                                        192.168.0.1
+
+German Ewens Lairet
+13:21 PM
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2803:9800:9033:b70d:676d:12b2:9094:6bba
+   Dirección IPv6 temporal. . . . . . : 2803:9800:9033:b70d:b55b:96d1:6462:3b7a
+   Vínculo: dirección IPv6 local. . . : fe80::d5c0:3f9c:efe5:96c4%6
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.100.4
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::1%6
+                                       192.168.100.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::c256:5e47:2286:8125%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de túnel Teredo Tunneling Pseudo-Interface:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : 2001:0:14c9:cd04:886:ea59:45f2:8ddf
+   Vínculo: dirección IPv6 local. . . : fe80::886:ea59:45f2:8ddf%13
+   Puerta de enlace predeterminada . . . . . :
