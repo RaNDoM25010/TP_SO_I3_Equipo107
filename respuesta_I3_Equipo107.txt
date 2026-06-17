@@ -28,4 +28,11 @@ e) no hubo algun problema al momento de crear el merge
 f) git checkout -b corazza
 git fetch origin
 git checkout corazza
+ipconfig
+git pull corazza
+
+g) git checkout -b corazza
+git fetch origin
+git checkout corazza
+ipconfig
 git pull corazza
