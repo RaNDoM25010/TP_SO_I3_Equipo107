@@ -1,3 +1,38 @@
 Joaquin Corazza
-192.168.0.20
 12:44 PM
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . : pcnat.telecentro.net.ar
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::2d38:1da9:e758:95c4%20
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : pcnat.telecentro.net.ar
+   Dirección IPv6 . . . . . . . . . . : 2800:810:489:100a:615e:e2ad:dcda:5a95
+   Dirección IPv6 temporal. . . . . . : 2800:810:489:100a:81a1:d747:89ae:78df
+   Vínculo: dirección IPv6 local. . . : fe80::e223:6c1c:7806:e169%21
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.20
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::125f:49ff:fecd:5fe7%21
+                                       192.168.0.1
