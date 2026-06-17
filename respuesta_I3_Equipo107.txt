@@ -20,3 +20,12 @@ git merge <rama-apellido-gamma>
 git add datos.txt
 git commit
 git push origin master
+
+d) La rama creada de Beta si, pero la de Gamma no ya que no se le hizo un merge
+
+e) no hubo algun problema al momento de crear el merge
+
+f) git checkout -b corazza
+git fetch origin
+git checkout corazza
+git pull corazza
